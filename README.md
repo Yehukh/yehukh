@@ -2,5 +2,5 @@
 
 ## 3rd year student of the National Aviation University of the English-language project, specialty - Computer Engineering
 
-Languages and Tools
-![C#/.NET](https://img.shields.io/badge/-C#/.NET-090909?style=for-the-badge&logo=c#&logoColor=47C5FB)
+### Languages and Tools
+![C#/.NET](https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=.net)
