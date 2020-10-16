@@ -3,7 +3,7 @@
 ## 3rd year student of the National Aviation University of the English-language project, specialty - Computer Engineering
 
 ### Languages and Tools
-![.NET Framework/Core](https://img.shields.io/badge/-Framework/Core-090909?style=for-the-badge&logo=.net)
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=6F0EF1)
 ![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=Windows&logoColor=12A1F0)
 ![WinForms](https://img.shields.io/badge/-WinForms-090909?style=for-the-badge&logo=Windows-XP&logoColor=12A1F0)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
