@@ -1,6 +1,6 @@
 ![Header](https://github.com/Yehukh/yehukh/blob/main/assets/Kukhar.gif?raw=true)
 
-## 3rd year student of the National Aviation University of the English-language project, specialty - Computer Engineering
+## 3rd year student of the National Aviation University of the English-language project, specialty - Computer Engineering. Excellent student who study on an English-speaking project.
 
 ### Languages and Tools
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=239120)
