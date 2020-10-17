@@ -11,6 +11,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=CC2927)
 
+### My Codewars profile
+![Codewars](https://www.codewars.com/users/yehor.kukhar/badges/large)
+
 ### Social Media
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/yehukh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0077B5)](www.linkedin.com/in/yehukh)
