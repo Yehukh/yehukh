@@ -14,7 +14,7 @@
 ### Social Media
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/yehukh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/yehukh)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1877F2)](facebook.com/yehukh)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1877F2)](https://facebook.com/yehukh)
 
 #### Codewars
 [![Codewars](https://www.codewars.com/users/yehor.kukhar/badges/micro)](https://www.codewars.com/users/yehor.kukhar)
