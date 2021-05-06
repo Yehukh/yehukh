@@ -1,4 +1,4 @@
-![Header](https://github.com/Yehukh/yehukh/blob/main/assets/Kukhar_Yehor.gif?raw=true)
+![Header](https://github.com/Yehukh/yehukh/blob/main/assets/KARY.gif?raw=true)
 
 ## Excellent student of 3rd year of the National Aviation University of the English-language project, specialty - Computer Engineering.
 
