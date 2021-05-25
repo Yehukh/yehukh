@@ -9,6 +9,8 @@
 ![MSSQL](https://img.shields.io/badge/-MSSQL-090909?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=CC2927)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFF)
+![VS](https://img.shields.io/badge/-VS-090909?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)
+![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 ### Social Media
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/yehukh)
